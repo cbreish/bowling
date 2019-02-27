@@ -10,6 +10,11 @@ npm install
 npm test
 ```
 
+## Running Linter
+``` shell
+npm run lint
+```
+
 ## Starting
 ``` shell
 npm start
